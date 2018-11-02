@@ -1,0 +1,19 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "anaconda",
+      "description": "Big snake"
+    },
+    {
+      "id": 2,
+      "name": "tiger",
+      "description": "Big striped cat"
+    },
+    {
+      "id": 3,
+      "name": "tiger",
+      "description": "Big african cat"
+    }
+  ]
+}
