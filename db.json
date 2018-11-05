@@ -6,19 +6,19 @@
 				"name": "Dog",
 				"shortDescription": "<p>Mans best friend</p>"
 				}
-			},
+			}
 		}, {
 			"info": {
 				"id": "112",
 				"name": "Dog",
 				"shortDescription": "<p>Not so best friend</p>"
-			},
+			}
 		}, {
 			"info": {
 				"id": "113",
 				"name": "Rabbit",
 				"shortDescription": "Likes carrots"
-			},
+			}
 		}]
 	}
 }
