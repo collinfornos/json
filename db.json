@@ -1,43 +1,24 @@
 { 
-"basket": {
-		"productList": [{
-			"product": {
+"animals": {
+		"list": [{
+			"info": {
 				"id": "111",
 				"name": "Dog",
-				"shortDescription": "<p>Mans best friend</p>",
-				"category": "Canine",
-				"availability": "In Stock",
-				"variationType": {
-					"name": "Breed",
-					"value": "Collie"
+				"shortDescription": "<p>Mans best friend</p>"
 				}
 			},
-			"quantity": 1,
-			"price": "$53.00"
 		}, {
-			"product": {
+			"info": {
 				"id": "112",
 				"name": "Dog",
-				"shortDescription": "<p>Not so best friend</p>",
-				"category": "feline",
-				"availability": "Low In Stock",
-				"variationType": {
-					"name": "breed",
-					"value": "Maine Coon"
-				}
+				"shortDescription": "<p>Not so best friend</p>"
 			},
-			"quantity": 1,
-			"price": "$49.00"
 		}, {
-			"product": {
+			"info": {
 				"id": "113",
 				"name": "Rabbit",
-				"shortDescription": "Likes carrots",
-				"category": "cuniculus",
-				"availability": "In Stock"
+				"shortDescription": "Likes carrots"
 			},
-			"quantity": 1,
-			"price": "$66.00"
 		}]
 	}
 }
